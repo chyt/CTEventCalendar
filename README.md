@@ -1,6 +1,6 @@
 # CTEventCalendar
 
-[![CI Status](http://img.shields.io/travis/Charles Tian/CTEventCalendar.svg?style=flat)](https://travis-ci.org/Charles Tian/CTEventCalendar)
+[![CI Status](http://img.shields.io/travis/chyt/CTEventCalendar.svg?style=flat)](https://travis-ci.org/chyt/CTEventCalendar)
 [![Version](https://img.shields.io/cocoapods/v/CTEventCalendar.svg?style=flat)](http://cocoapods.org/pods/CTEventCalendar)
 [![License](https://img.shields.io/cocoapods/l/CTEventCalendar.svg?style=flat)](http://cocoapods.org/pods/CTEventCalendar)
 [![Platform](https://img.shields.io/cocoapods/p/CTEventCalendar.svg?style=flat)](http://cocoapods.org/pods/CTEventCalendar)
