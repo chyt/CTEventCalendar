@@ -1,0 +1,14 @@
+PODS:
+  - CTEventCalendar (0.1.0)
+
+DEPENDENCIES:
+  - CTEventCalendar (from `../`)
+
+EXTERNAL SOURCES:
+  CTEventCalendar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CTEventCalendar: 3d5d892e1c57882de70f70ad8f26dfc18eb81337
+
+COCOAPODS: 0.39.0

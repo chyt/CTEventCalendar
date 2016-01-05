@@ -1,0 +1,6 @@
+framework module Pods_CTEventCalendar_Tests {
+  umbrella header "Pods-CTEventCalendar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
